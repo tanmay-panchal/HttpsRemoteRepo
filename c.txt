@@ -1,3 +1,0 @@
-ASM
-GIT
-SALT
